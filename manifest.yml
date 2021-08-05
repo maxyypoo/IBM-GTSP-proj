@@ -1,0 +1,5 @@
+---
+applications:
+ - name: custom-ci-19218239
+   host: custom-ci-19218239
+   memory: 128M
